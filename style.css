@@ -173,7 +173,7 @@ main {
     align-items: center;
     width: 100%;
     height: 796px;
-    background: center / cover no-repeat url(/img/0b8192d8b3f6171a16dbc23ffcca9c13.jpeg);
+    background: center / cover no-repeat url(img/0b8192d8b3f6171a16dbc23ffcca9c13.jpeg);
 }
 
 .my-possibilities h2 {
@@ -315,7 +315,7 @@ main {
     align-items: center;
     width: 100%;
     height: 822px;
-    background: center / cover no-repeat url(/img/21dcf520c4acf394d42a992466a3d7f9.jpeg);
+    background: center / cover no-repeat url(img/21dcf520c4acf394d42a992466a3d7f9.jpeg);
 }
 
 .contacts h2 {
